@@ -1,0 +1,12 @@
+#owl-demo {
+	margin-bottom: 10px;
+}
+#owl-demo .item img {
+	display: block;
+	width: 100%;
+	height: auto;
+}
+ul, li {
+	padding-left: 0px;
+	margin: 0px;
+}
